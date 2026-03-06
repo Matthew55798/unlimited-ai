@@ -1,15 +1,11 @@
-License
-
 Copyright (c) 2026 李中然 (MallocPointer)
 
 版权所有。
 
-本软件仅供个人学习、研究、非商业用途使用。
-允许以原样形式重新分发本软件，但禁止对本软件进行任何形式的修改、改编、翻译、反向工程、反编译、拆解，
-禁止删除或修改本版权声明及许可证信息。
-
-如需对本软件进行修改或用于商业用途，请事先通过邮件联系获得书面授权：
-lizhongran910@gmail.com。
+1. 禁止将本项目用于任何商业用途。
+2. 禁止未经许可修改、改编、逆向工程本项目代码。
+3. 若用于非盈利性公益服务，只需在明显位置标注本项目地址，即可无额外限制使用。
+4. 如需修改或用于商业用途，请事先邮件联系获取授权：lizhongran910@gmail.com。
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -23,17 +19,15 @@ SOFTWARE.
 
 English Version:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to use,
-copy and redistribute the Software, subject to the following conditions:
+Copyright (c) 2026 Zhongran Li (MallocPointer)
+All rights reserved.
 
-1. The Software may only be used for **personal study, research, and non-commercial purposes**.
-2. You may **not modify, adapt, translate, reverse engineer, decompile, disassemble** the Software in any form.
-3. You may not remove or alter this copyright notice and license information.
-
-For permission to **modify or use the Software commercially**,
-please contact for written authorization via email:
-lizhongran910@gmail.com.
+1. Commercial use is strictly prohibited.
+2. Unauthorized modification, adaptation, reverse engineering of this project is prohibited.
+3. For non-profit public welfare services, you may use this project without additional restrictions,
+   provided that you clearly attribute the original project URL.
+4. For modification or commercial use, please contact for prior authorization:
+   lizhongran910@gmail.com.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
